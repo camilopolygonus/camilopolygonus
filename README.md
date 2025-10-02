@@ -3,6 +3,10 @@
 <!--
 **camilopolygonus/camilopolygonus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<p align="center">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
